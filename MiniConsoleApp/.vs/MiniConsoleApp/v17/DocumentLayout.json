@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B068C-D2E6-4DD9-AE4A-1ECA83102330}|MiniConsoleApp\\MiniConsoleApp.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B068C-D2E6-4DD9-AE4A-1ECA83102330}|MiniConsoleApp\\MiniConsoleApp.csproj|solutionrelative:miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\classroomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\classroomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\exceptions\\classroomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\exceptions\\classroomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|c:\\users\\asus\\onedrive\\desktop\\miniconsoleapp\\core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9CDD0-30A6-4E0F-BA42-84EFFD8F22D2}|Core\\Core.csproj|solutionrelative:core\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Helper.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Helper.cs",
+              "RelativeToolTip": "Core\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:42:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassroomException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Exceptions\\ClassroomException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ClassroomException.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Exceptions\\ClassroomException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ClassroomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:59:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Exceptions\\StudentException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\StudentException.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Exceptions\\StudentException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\StudentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:58:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassroomType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\ClassroomType.cs",
+              "RelativeDocumentMoniker": "Core\\ClassroomType.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\ClassroomType.cs",
+              "RelativeToolTip": "Core\\ClassroomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:57:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Classroom.cs",
+              "RelativeDocumentMoniker": "Core\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Classroom.cs",
+              "RelativeToolTip": "Core\\Classroom.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:54:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\Core\\Student.cs",
+              "RelativeToolTip": "Core\\Student.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:30:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MiniConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
+              "RelativeToolTip": "MiniConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:28:43.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
