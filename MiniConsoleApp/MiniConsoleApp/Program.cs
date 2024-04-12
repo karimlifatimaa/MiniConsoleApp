@@ -12,7 +12,7 @@ namespace MiniConsoleApp
             string className;
             do
             {
-                Console.WriteLine("Clasroom adini daxil edin ");
+                Console.WriteLine("Clasroom adini daxil edin:");
                 className = Console.ReadLine();
 
             } while (!className.ClassNameCheck());
@@ -21,8 +21,8 @@ namespace MiniConsoleApp
             ClassroomType type;
             do
             {
-                Console.WriteLine("Enter the type");
-                Console.WriteLine("(1: BackEnd, 2: FrontEnd): ");
+                Console.WriteLine("Type daxil et:");
+                Console.WriteLine("1: BackEnd\r\n2: FrontEnd ");
 
             } while (!ClassroomType.TryParse(Console.ReadLine(),out type)||(int)type>2);
             Classroom classroom = new Classroom(className, type);
@@ -30,7 +30,9 @@ namespace MiniConsoleApp
             bool flag =false;
             do
             {
-                Console.WriteLine("1.Classroom yarat\r\n2.Student yarat\r\n3.Butun Telebeleri ekrana cixart\r\n4.Telebe sil\r\n5.Son ");
+                Console.WriteLine("---------------------------------------------");
+                Console.WriteLine("1.Classroom yarat\r\n2.Student yarat\r\n3.Butun Telebeleri ekrana cixart\r\n4.Telebe sil\r\n5.Secilmis id telebeni ekrana cixart\r\n6.Son ");
+                Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("Secim edin:");
                 string answer=Console.ReadLine();
                 switch(answer)
@@ -38,18 +40,30 @@ namespace MiniConsoleApp
 
                     case "1":
                         flag = true;
+                        Console.WriteLine("Sinif yaradildi");
                         break;
                     case "2":
                         if (flag != true)
                         {
                             Console.WriteLine("Sinif yaradilmayib");
                         }
-                        else { 
-                        Console.WriteLine("Name daxil et");
-                        string name=Console.ReadLine();
-                        Console.WriteLine("Surname daxil et");
-                        string surname=Console.ReadLine();
-                        Student student = new Student(name,surname);
+                        else {                           
+                            string name;
+                            do
+                            {
+                                Console.WriteLine("Name daxil edin ");
+                                name = Console.ReadLine();
+
+                            } while (!name.NameAndSurnameCheck());
+                            string surname;
+                            do
+                            {
+                                Console.WriteLine("Surname daxil edin ");
+                                surname = Console.ReadLine();
+
+                            } while (!surname.NameAndSurnameCheck());
+
+                            Student student = new Student(name,surname);
                         classroom.StudentAdd(student);}
                         break;
                     case "3":                        
@@ -58,7 +72,10 @@ namespace MiniConsoleApp
                         {
                             if (student != null)
                             {
+                                Console.WriteLine("---------------------------------");
                                 Console.WriteLine(student);
+                              
+
                             }
                         }
                         break;
@@ -79,7 +96,23 @@ namespace MiniConsoleApp
                             Console.WriteLine(ex.Message);
                         }
                         break;
-                    case "5": exit=true;
+                    case "5":
+                        int idF;
+                        do
+                        {
+                            Console.WriteLine("Axtardiginiz telebenin Id-ni daxil edin: ");
+                        } while (!int.TryParse(Console.ReadLine(), out idF));
+                        try
+                        {
+                            Console.WriteLine(classroom.FindId(idF));
+                            Console.WriteLine("Telebe Tapildi.");
+                        }
+                        catch (StudentException ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
+                        break;
+                    case "6": exit=true;
                         break;
                     default:
                         Console.WriteLine("Duzgun deyer daxil et");

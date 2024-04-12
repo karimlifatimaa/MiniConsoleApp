@@ -49,7 +49,7 @@ namespace Core
         {
             foreach (Student student in students)
             {
-                if (student.Id == id)
+                if (student != null && student.Id == id)
                 {
                     return student;
                 }

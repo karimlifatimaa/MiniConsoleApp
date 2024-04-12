@@ -34,7 +34,7 @@ namespace Core
         }
         public override string ToString()
         {
-            return $"Id:{Id}, {Name} {Surname}";
+            return $"Id:{Id}, Name:{Name}, Surname:{Surname}";
         }
     }
 }
