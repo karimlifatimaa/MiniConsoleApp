@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\bin\Debug\net6.0\CustomList.exe
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\bin\Debug\net6.0\CustomList.deps.json
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\bin\Debug\net6.0\CustomList.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\bin\Debug\net6.0\CustomList.dll
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\bin\Debug\net6.0\CustomList.pdb
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.sourcelink.json
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.dll
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\refint\CustomList.dll
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.pdb
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\CustomList.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\MiniConsoleApplication\CustomList\CustomList\obj\Debug\net6.0\ref\CustomList.dll
